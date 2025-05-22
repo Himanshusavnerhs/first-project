@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/server-stats
+
 🔧 How to Use:
 Save this file as server-stats.sh:
 
