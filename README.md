@@ -25,3 +25,6 @@ The script uses standard tools: top, free, df, ps, and awk, which are present on
 You can extend it to log output to a file or schedule it via cron for periodic reporting.
 
 Would you like a version that outputs to a log file or sends email alerts for high usage?
+
+
+https://drive.google.com/file/d/1BjDzzzBPoKQE1FJiLZhL_QZON7qbvTAI/view?usp=drive_link
